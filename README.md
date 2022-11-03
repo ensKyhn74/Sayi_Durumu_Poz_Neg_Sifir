@@ -1,0 +1,1 @@
+# Sayi_Durumu_Poz_Neg_Sifir
